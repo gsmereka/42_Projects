@@ -1,0 +1,6 @@
+[submodule "0_libft"]
+	path = 0_libft
+	url = https://github.com/gsmereka/Libtf
+[submodule "1_get_next_line"]
+	path = 1_get_next_line
+	url = https://github.com/gsmereka/get_next_line
