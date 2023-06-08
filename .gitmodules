@@ -13,3 +13,21 @@
 [submodule "2_ft_printf"]
 	path = 2_ft_printf
 	url = https://github.com/gsmereka/ft_printf
+[submodule "4_so_long"]
+	path = 4_so_long
+	url = https://github.com/gsmereka/So_long
+[submodule "5_pipex"]
+	path = 5_pipex
+	url = https://github.com/gsmereka/Pipex
+[submodule "6_push_swap"]
+	path = 6_push_swap
+	url = https://github.com/gsmereka/push_swap
+[submodule "7_minishell"]
+	path = 7_minishell
+	url = https://github.com/gsmereka/Minishell
+[submodule "8_philosophers"]
+	path = 8_philosophers
+	url = https://github.com/gsmereka/Philosophers
+[submodule "9_netpractice"]
+	path = 9_netpractice
+	url = https://github.com/gsmereka/NetPractice
