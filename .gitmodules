@@ -7,3 +7,6 @@
 [submodule "2_born2beroot"]
 	path = 2_born2beroot
 	url = https://github.com/gsmereka/born2beroot
+[submodule "3_born2beroot"]
+	path = 3_born2beroot
+	url = https://github.com/gsmereka/born2beroot
