@@ -4,3 +4,6 @@
 [submodule "1_get_next_line"]
 	path = 1_get_next_line
 	url = https://github.com/gsmereka/get_next_line
+[submodule "2_born2beroot"]
+	path = 2_born2beroot
+	url = https://github.com/gsmereka/born2beroot
