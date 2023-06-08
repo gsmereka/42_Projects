@@ -10,3 +10,6 @@
 [submodule "3_born2beroot"]
 	path = 3_born2beroot
 	url = https://github.com/gsmereka/born2beroot
+[submodule "2_ft_printf"]
+	path = 2_ft_printf
+	url = https://github.com/gsmereka/ft_printf
