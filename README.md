@@ -8,9 +8,9 @@ Um resumo da minha formação e um compilado dos projetos que realizei na 42 Sã
 
 1. [O que é a 42?](#1)
 1. [Formação](#1.5)
-    1. [Fase 1](#2)
-    1. [Fase 2](#3)
-    1. [Fase 3](#4)
+	- [Fase 1](#2)
+	- [Fase 2](#3)
+	- [Fase 3](#4)
 1. [Como clonar este repositório?](#5)
 
 *******
