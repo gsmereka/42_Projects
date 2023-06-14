@@ -2,9 +2,25 @@
 
 Um resumo da minha formação e um compilado dos projetos que realizei na 42 São Paulo.
 
-## O que é 42 ?
+*******
+
+## índice
+
+1. [O que é a 42 ?](#1)
+1. [Fase 1](#2)
+1. [Fase 2](#3)
+1. [Fase 3](#4)
+1. [Como clonar este repositório ?](#5)
+
+*******
+
+<div id='1'/>
+
+## O que é a 42 ?
 
 A 42 é uma escola de programação com uma metodologia de ensino disruptiva, sem professores ou aulas formais. A escola utiliza um método de aprendizagem por pares em que os alunos devem desenvolver cada projeto com 100% de aprovação antes progredir para o proximo do currículo.
+
+<div id='2'/>
 
 ### Fase 1 - Entrando em Orbita
 
@@ -17,6 +33,8 @@ A 42 é uma escola de programação com uma metodologia de ensino disruptiva, se
 | **[So_Long](https://github.com/gsmereka/So_long)** | 	Um game escrito em c, utilizando a biblioteca gráfica simples. |
 | **[Pipex](https://github.com/gsmereka/Pipex)** | O pipex tem o objetivo de simular o operador '\|' em comandos linux. |
 
+<div id='3'/>
+
 ### Fase 2 - Ampliando Horizontes
 
 | Projeto | Descrição |
@@ -27,9 +45,13 @@ A 42 é uma escola de programação com uma metodologia de ensino disruptiva, se
 | **[NetPractice](https://github.com/gsmereka/netpractice)** | Uma introdução a redes e protocolo IPv4. |
 | **[Cub3d / MiniRT](https://github.com/gsmereka/minirt)** | Meu segundo projeto em dupla e segundo projeto gráfico, ainda não escolhi. |
 
+<div id='4'/>
+
 ### Fase 3 - Explorando o Espaço
 
 Em produção...
+
+<div id='5'/>
 
 ## Como clonar este repositório ?
 
