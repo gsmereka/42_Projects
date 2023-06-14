@@ -17,11 +17,11 @@ A 42 é uma escola de programação com uma metodologia de ensino disruptiva, se
 
 ### Fase 2 - Entrando em Orbita
 
-1. **[Push_Swap](https://github.com/gsmereka/Libtf):** Um projeto com o objetivo de entendermos algoritmos de ordenação.
-1. **[Minishell](https://github.com/gsmereka/Libtf):** Uma réplica simples e funcional do bash, utilizado em linux, também meu primeiro projeto em dupla.
-1. **[Philosophers](https://github.com/gsmereka/Libtf):** Um projeto focado em aprender o funcionamento de threads e resolucão de data-races e death_locks (preciso anotar referencias).
-1. **[NetPractice](https://github.com/gsmereka/Libtf):** Uma introdução a redes e protocolo IPv4.
-1. **[Cub3d / MiniRT](https://github.com/gsmereka/Libtf):** Meu segundo projeto em dupla e segundo projeto gráfico, ainda não escolhi.
+1. **[Push_Swap](https://github.com/gsmereka/push_swap):** Um projeto com o objetivo de entendermos algoritmos de ordenação.
+1. **[Minishell](https://github.com/gsmereka/Minishell):** Uma réplica simples e funcional do bash, utilizado em linux, também meu primeiro projeto em dupla.
+1. **[Philosophers](https://github.com/gsmereka/Philosophers):** Um projeto focado em aprender o funcionamento de threads e resolucão de data-races e death_locks (preciso anotar referencias).
+1. **[NetPractice](https://github.com/gsmereka/netpractice):** Uma introdução a redes e protocolo IPv4.
+1. **[Cub3d / MiniRT](https://github.com/gsmereka/minirt):** Meu segundo projeto em dupla e segundo projeto gráfico, ainda não escolhi.
 
 ### Fase 3 - Explorando o Espaço
 
