@@ -19,11 +19,15 @@ Um resumo da minha formação e um compilado dos projetos que realizei na 42 Sã
 
 ## O que é a 42?
 
-A 42 é uma escola de programação com uma metodologia de ensino disruptiva, sem professores ou aulas formais. A escola utiliza um método de aprendizagem por pares em que os alunos devem desenvolver cada projeto com 100% de aprovação antes progredir para o próximo do currículo.
+A École 42 é uma renomada escola de programação fundada na França por [Xavier Niel](https://www.forbes.com/profile/xavier-niel/) em 2013. Ela adota uma metodologia de ensino disruptiva e inovadora, baseada no aprendizado prático e colaborativo.
+
+Ao contrário das instituições de ensino tradicionais, a École 42 não possui professores ou aulas formais. Em vez disso, os alunos aprendem principalmente por meio de projetos práticos e trocas com a comunidade. Essa abordagem incentiva a autonomia, o pensamento crítico e a resolução de problemas.
 
 <div id='1.5'/>
 
 ## Formação
+
+O currículo é composto por uma série de projetos temáticos, individuais ou em grupo, nos quais os alunos devem progredir. Cada projeto possui seus próprios desafios e metas a serem alcançadas. Os alunos devem completar cada projeto com sucesso antes de passar para o próximo, garantindo assim um aprendizado progressivo e sólido.
 
 <div id='2'/>
 
