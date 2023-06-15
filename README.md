@@ -17,9 +17,10 @@
 ```
 
 *******
-Um resumo da minha formação e um compilado dos projetos que realizei na 42 São Paulo.
 
 ## Português | [English](./README_en.md)
+
+Um resumo da minha formação e um compilado dos projetos que realizei na 42 São Paulo.
 
 ## índice
 
