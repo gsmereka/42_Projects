@@ -19,7 +19,7 @@
 *******
 A summary of my education and a compilation of the projects I completed at 42 São Paulo.
 
-
+## [Português](https://github.com/gsmereka/42_Projects) | English
 
 ## Table of Contents
 
