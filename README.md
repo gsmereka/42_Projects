@@ -1,8 +1,25 @@
 # 42_Projects
 
-Um resumo da minha formação e um compilado dos projetos que realizei na 42 São Paulo.
+*******
+
+```
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   42_Projects.c                                      :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: gsmereka <gsmereka@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/06/09 17:41:33 by gsmereka          #+#    #+#             */
+/*   Updated: 2022/12/23 23:28:28 by gsmereka         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+```
 
 *******
+Um resumo da minha formação e um compilado dos projetos que realizei na 42 São Paulo.
+
+
 
 ## índice
 
