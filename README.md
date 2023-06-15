@@ -39,11 +39,11 @@ Primeiros passos na formação, em que a maioria dos projetos utiliza a linguage
 
 | Projeto | Descrição |
 | --- | ---|
-| **[Libft](https://github.com/gsmereka/Libtf)** | A Libft é uma biblioteca de funções em C que pode ser facilmente utilizada em qualquer projeto. Ela contém replicas de funções já existentes na biblioteca padrão de C. Em muitos projetos subsequentes, devemos utilizar as versões da Libft em vez das originais. |
+| **[Libft](https://github.com/gsmereka/Libtf)** | A Libft é uma biblioteca de funções em C que pode ser facilmente utilizada em qualquer projeto. Ela contém replicas de funções já existentes na [biblioteca padrão de C](https://en.wikipedia.org/wiki/C_standard_library). Em muitos projetos subsequentes, devemos utilizar as versões da Libft em vez das originais. |
 | **[get_next_line](https://github.com/gsmereka/get_next_line)** | Uma função extra inclusa na Libft, tem o objetivo de possibilitar a leitura de linhas em arquivos de forma eficiente. |
 | **[ft_printf](https://github.com/gsmereka/ft_printf)** | Replica da função printf, também incluída na Libft. |
 | **[Born2BeRoot](https://github.com/gsmereka/born2beroot)** | Uma introdução ao uso de máquinas virtuais. Configuramos um servidor SSH e entendemos regras gerais de administração de sistemas, segurança de senhas e mais. |
-| **[So_Long](https://github.com/gsmereka/So_long)** | Um jogo simples no estilo top-down, utilizando uma biblioteca gráfica simples implementada para a 42. |
+| **[So_Long](https://github.com/gsmereka/So_long)** | Um jogo simples no estilo top-down, utilizando uma biblioteca gráfica simples implementada para a 42, a [Minilibx](https://github.com/42Paris/minilibx-linux). |
 | **[Pipex](https://github.com/gsmereka/Pipex)** | O Pipex tem o objetivo de simular como o operador '\|' funciona em processos Linux. |
 
 <div id='3'/>
@@ -56,7 +56,7 @@ Nesta etapa, temos acesso aos primeiros projetos em grupo e o primeiro desafio e
 | --- | ---|
 | **[push_swap](https://github.com/gsmereka/push_swap)** | Um projeto visando entender algoritmos de ordenação, devemos escolher os melhores métodos para ordenar uma pilha de números aleatórios utilizando operações pré-determinadas.
 | **[Minishell](https://github.com/gsmereka/Minishell)** | Uma réplica simples e funcional do Bash utilizado em Linux, também meu primeiro projeto em dupla e o com maior duração até então. |
-| **[Philosophers](https://github.com/gsmereka/Philosophers)** | Um projeto focado em aprender o funcionamento de threads e resolução de data-races e death_locks (preciso anotar referencias). |
+| **[Philosophers](https://github.com/gsmereka/Philosophers)** | Um projeto focado em aprender o funcionamento de threads e resolução de [data races](https://en.wikipedia.org/wiki/Race_condition) e [deadlocks](https://en.wikipedia.org/wiki/Deadlock). |
 | **[NetPractice](https://github.com/gsmereka/netpractice)** | Uma introdução a redes e protocolo IPv4, em que devemos solucionar problemas de conexões entre redes e intra redes. |
 | **[Cub3d / MiniRT](https://github.com/gsmereka/minirt)** | Meu segundo projeto gráfico e segundo projeto em dupla. |
 
